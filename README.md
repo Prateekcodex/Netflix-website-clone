@@ -1,6 +1,74 @@
-# 🎬 Netflix Clone – HTML & CSS
-This project is a static front-end clone of the Netflix website, built using pure HTML and CSS. It replicates the visual layout and design elements of Netflix's landing page, including the hero section, navigation bar, call-to-action buttons, and footer — all without using any JavaScript or frameworks.
+# 🎬 Netflix Website Clone
 
-The goal of this project is to demonstrate responsive web design, layout structuring, and modern styling techniques using only front-end markup and styles.
-# Output :
-![Image](https://github.com/user-attachments/assets/d42efd51-983f-47e3-9db2-1df6451b38a4)
+A simple Netflix landing page clone built using **HTML** and **CSS**.
+
+## 🚀 Live Demo
+
+🔗 https://netflix-website-clone-amber.vercel.app
+
+---
+
+## ✨ Features
+
+- Netflix-inspired UI
+- Responsive Design
+- Modern Layout
+- Hero Section
+- FAQ Section
+- Clean User Interface
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+
+---
+
+## 📂 Project Structure
+
+| File | Description |
+|--------|------------|
+| index.html | Main webpage |
+| style.css | Styling file |
+| logo.png | Netflix logo |
+| tv.png | TV image |
+| 1.jpg - 4.png | Project assets |
+| 1.m4v - 2.m4v | Video assets |
+
+---
+
+## 🖼️ Preview
+
+<p align="center">
+  <img src="./4.png" width="600" alt="Netflix Clone Preview">
+</p>
+
+---
+
+## ⚡ Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Prateekcodex/Netflix-website-clone.git
+```
+
+### Run the Project
+
+Open `index.html` in your browser.
+
+---
+
+## 👨‍💻 Author
+
+**Prateek Patel**
+
+- GitHub: https://github.com/Prateekcodex
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to ⭐ the repository.
