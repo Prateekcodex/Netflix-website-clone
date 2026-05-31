@@ -2,10 +2,6 @@
 
 A simple Netflix landing page clone built using **HTML** and **CSS**.
 
-## 🚀 Live Demo
-
-🔗 https://netflix-website-clone-amber.vercel.app
-
 ---
 
 ## ✨ Features
@@ -42,30 +38,9 @@ A simple Netflix landing page clone built using **HTML** and **CSS**.
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="./4.png" width="600" alt="Netflix Clone Preview">
+  <img src="./4.png" width="350" alt="Netflix Clone Preview">
 </p>
 
----
-
-## ⚡ Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Prateekcodex/Netflix-website-clone.git
-```
-
-### Run the Project
-
-Open `index.html` in your browser.
-
----
-
-## 👨‍💻 Author
-
-**Prateek Patel**
-
-- GitHub: https://github.com/Prateekcodex
 
 ---
 
